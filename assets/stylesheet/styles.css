@@ -1,0 +1,15 @@
+img {
+    width: auto;
+    height: 200px;
+    margin: auto;
+    padding:10px;
+}
+
+img:hover {
+    opacity: 0.3;
+  }
+
+* {
+    text-align: center;
+}
+
