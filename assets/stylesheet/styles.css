@@ -3,6 +3,9 @@
   color: #c6c8d3d8;
   text-align: center;
   font-size: 18px;
+  max-width: 770px;
+  padding:auto;
+  margin:auto;
 }
 
 img {
@@ -52,6 +55,10 @@ ul, li {
     padding-left: 10px;
 }
 
-hr {
-    max-width:1500px;
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
 }
